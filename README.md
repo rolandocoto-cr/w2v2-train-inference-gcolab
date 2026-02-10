@@ -1,15 +1,15 @@
 Please run the installer to create the file structure. It should look like this:
 
 `-- 202506-ood-asr  `<br>
-`   | - all-wavs  `
-   |   | - logs-wav2vec2-res<br>
-   |   | - tsv-inputs<br>
-   |   | - tsv-outputs  
-   |   | - wav  
-   |   | - wav2vec2-model  
-   | - sandbox-user  
-   |   | - logs-wav2vec2-res  
-   |   | - tsv-inputs  
-   |   | - tsv-outputs  
-   |   | - wav  
-   |   | - wav2vec2-model`
+`   | - all-wavs  `<br>
+`   |   | - logs-wav2vec2-res  `<br>
+`   |   | - tsv-inputs  `<br>
+`   |   | - tsv-outputs  `<br>
+`   |   | - wav  `<br>
+`   |   | - wav2vec2-model  `<br>
+`   | - sandbox-user  `<br>
+`   |   | - logs-wav2vec2-res  `<br>
+`   |   | - tsv-inputs  `<br>
+`   |   | - tsv-outputs  `<br>
+`   |   | - wav  `<br>
+`   |   | - wav2vec2-model  `<br>
